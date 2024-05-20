@@ -1,0 +1,5 @@
+black
+ipykernel
+matplotlib
+numpy
+pylzma
