@@ -1,5 +1,7 @@
 black
 ipykernel
+markdown
 matplotlib
 numpy
 pylzma
+python-dotenv
