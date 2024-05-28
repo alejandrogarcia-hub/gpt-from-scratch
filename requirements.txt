@@ -1,4 +1,5 @@
 black
+datasets
 ipykernel
 markdown
 matplotlib
