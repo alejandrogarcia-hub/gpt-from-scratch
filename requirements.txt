@@ -5,15 +5,5 @@ markdown
 matplotlib
 numpy
 pylzma
-<<<<<<< HEAD
 python-dotenv
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
->>>>>>> 949ddd2 (Add initial requirements)
-=======
-python-dotenv
->>>>>>> 9fa6c5b (Add new packages)
->>>>>>> e74a370 (Add Bi-gram and GPT notebooks)
+ipywidgets
